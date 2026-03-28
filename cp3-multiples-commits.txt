@@ -1,0 +1,6 @@
+git log --oneline:
+346b9f0 (HEAD -> test, main) Crea versión 1.0 de la app
+
+Versión 1.0 de la aplicación.
+
+Cuando haces un merge, Git toma todo el historial y todos los cambios de la rama secundaria y los une a tu rama actual. Cherry-pick es como copiar y pegar una página específica de un libro a otro.

@@ -1,0 +1,6 @@
+git log --oneline:
+346b9f0 (HEAD -> main) Crea versión 1.0 de la app
+
+Versión 1.0 de la aplicación.
+
+Es útil porque permite mover cambios específicos entre ramas con precisión quirúrgica.

@@ -1,0 +1,19 @@
+On branch main
+You are currently cherry-picking commit 2b34c81.
+  (fix conflicts and run "git cherry-pick --continue")
+  (use "git cherry-pick --skip" to skip this patch)
+  (use "git cherry-pick --abort" to cancel the cherry-pick operation)
+
+Unmerged paths:
+  (use "git add <file>..." to mark resolution)
+        both modified:   app.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        cp1-historial-develop.txt
+        cp2-cherry-pick-simple.txt
+        cp3-multiples-commits.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+He resuelto el conflicto con --continue y después he usado Tambien --abort. 

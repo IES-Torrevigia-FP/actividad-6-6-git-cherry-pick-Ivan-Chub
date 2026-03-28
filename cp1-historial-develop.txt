@@ -1,0 +1,7 @@
+git log --oneline --all:
+2b34c81 (HEAD -> develop) HOTFIX: corrige error crítico en login
+f5ff0b8 Añade funcionalidad B en develop
+1b5f3b9 Añade funcionalidad A en develop
+346b9f0 (main) Crea versión 1.0 de la app
+
+El commit de HOTFIX es 2b34c81
